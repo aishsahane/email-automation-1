@@ -8,7 +8,7 @@ import os.path
 
 
 email = 'infinityokayy@gmail.com'
-password = "xrit vgiv lyth ocvk"
+password = "password"
 send_to_email = 'adityamsahane07@gmail.com'
 subject = 'Automated Email'
 message = 'with attachment'
